@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --font-heading: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background: #f8fbff;
+  color: #0f172a;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+}
+
+button,
+input,
+textarea,
+select {
+  font-family: var(--font-body);
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}

@@ -1,0 +1,141 @@
+{
+  "school": {
+    "mottoHeading": "Our School Motto",
+    "motto": "Work, Dignity and Light",
+    "mottoReflection": "We encourage students to work with dedication, uphold the dignity of every person, and share the light of knowledge with their communities.",
+    "missionHeading": "Mission",
+    "mission": "To promote inclusive education, providing the quality of education, encouraging learners to innovate by enhancing practical skill and stressing the spiritual moral development.",
+    "visionHeading": "Vision",
+    "vision": "To be an outstanding school in teaching and learning where discipline, humanity, moral and spiritual value hold the key to all success"
+  },
+  "nav": {
+    "location": "Musanze District, Northern Province, Rwanda",
+    "portal": "Parent / Student Portal",
+    "items": {
+      "home": "Home",
+      "about": "About",
+      "academics": "Academics",
+      "campus": "Campus",
+      "news": "News",
+      "contact": "Contact"
+    },
+    "apply": "Apply Now",
+    "chooseLanguage": "Choose language",
+    "toggleMenu": "Toggle mobile menu"
+  },
+  "home": {
+    "stats": [
+      { "value": "70+", "label": "Years of Excellence" },
+      { "value": "800+", "label": "Students" },
+      { "value": "99%", "label": "Pass Rate" },
+      { "value": "2", "label": "Official Academic Streams" }
+    ],
+    "highlights": [
+      { "title": "Established 1952", "description": "70+ Years of Excellence" },
+      { "title": "Science Excellence", "description": "Leading Science Programs" },
+      { "title": "Catholic Marist Values", "description": "Faith, service & moral discipline" },
+      { "title": "National Recognition", "description": "Top Academic Results" }
+    ],
+    "hero": {
+      "title": "Building Rwanda's Future Leaders",
+      "description": "G.S. Busogo I - Saint Benoît is a Catholic Marist Day School committed to science, humanities, and moral discipline.",
+      "explore": "Explore Academics",
+      "curriculum": "View Curriculum",
+      "imageAlt": "Group Scolaire Busogo I campus"
+    },
+    "featured": {
+      "imageAlt": "Students learning at Group Scolaire Busogo I",
+      "badge": "Student Life",
+      "title": "Work, Dignity and Light",
+      "description": "Preparing learners for leadership, service, and innovation."
+    },
+    "about": {
+      "badge": "Welcome to G.S. Busogo I",
+      "title": "A legacy of scientific excellence",
+      "description": "Founded in 1952, G.S. Busogo I - Saint Benoît is a Catholic Marist Day School committed to science, humanities, faith, and moral discipline.",
+      "spirit": "Marist Spirit",
+      "spiritText": "Faith, love, and discipline in every step.",
+      "science": "Science",
+      "scienceText": "Hands-on practical learning and strong STEM foundations.",
+      "faith": "Faith",
+      "faithText": "Marist values centered on service, humility, and character."
+    },
+    "pillars": {
+      "badge": "Our Guiding Pillars",
+      "title": "A Catholic Marist education grounded in science, humanities, and moral discipline",
+      "items": [
+        { "title": "Conscience", "text": "A strong moral compass built on faith, responsibility, respect, and service to the community." },
+        { "title": "Science", "text": "Hands-on learning, digital competence, and inquiry-driven education for a changing world." },
+        { "title": "Excellence", "text": "High expectations, disciplined habits, and academic achievement that prepare learners for leadership." }
+      ]
+    },
+    "curriculum": {
+      "badge": "Official Academic Streams",
+      "title": "Two pathways for Catholic Marist day learners",
+      "description": "Our Catholic Marist Day School nurtures scientific curiosity, human understanding, and strong moral character.",
+      "streams": [
+        { "title": "Maths & Science Stream", "description": "Build strong foundations in mathematics and science through practical learning, investigation, and disciplined study.", "tags": ["Mathematics", "Physics", "Chemistry", "Biology"] },
+        { "title": "Arts & Humanities Stream", "description": "Explore languages, history, geography, and the humanities while developing thoughtful judgment and communication.", "tags": ["Languages", "History", "Geography", "Humanities"] }
+      ]
+    },
+    "impact": {
+      "badge": "Excellence in Numbers",
+      "title": "Measured success across every generation",
+      "stats": [
+        { "value": "99%", "label": "National Pass Rate", "detail": "Consistent top performance" },
+        { "value": "1000+", "label": "Successful Alumni", "detail": "Leaders worldwide" },
+        { "value": "25+", "label": "Science Awards", "detail": "National competitions" },
+        { "value": "70+", "label": "Years of Excellence", "detail": "Since 1952" }
+      ]
+    },
+    "studentLife": {
+      "badge": "Beyond the Classroom",
+      "title": "Student life that builds confidence and character",
+      "items": [
+        { "title": "Competitions", "text": "National and international science olympiads, mathematics contests, and academic challenges." },
+        { "title": "Clubs & Societies", "text": "Science club, debate society, environmental club, and coding club for active learning beyond class." },
+        { "title": "Community Service", "text": "Student-led initiatives that create meaningful impact and give back to the local community." }
+      ]
+    },
+    "testimonials": {
+      "badge": "Voices of Busogo I",
+      "title": "What our community says about us",
+      "items": [
+        { "quote": "Busogo I gave me the academic discipline and confidence to pursue my studies abroad. The school shaped both my mind and my character.", "name": "Niyogakiza", "role": "Alumni • Class of 2020" },
+        { "quote": "The science culture, support from teachers, and strong school values make learning here motivating and empowering.", "name": "Manzi G.", "role": "Current Student • S6" },
+        { "quote": "As a parent, I value the balance of academic excellence, discipline, and character formation that Busogo I offers.", "name": "Mugabo P.", "role": "Parent" }
+      ]
+    },
+    "news": {
+      "badge": "School Updates",
+      "title": "Latest news and events",
+      "viewAll": "View all updates",
+      "items": [
+        { "tag": "Achievement", "date": "March 15, 2026", "title": "School science teams drive top results at national competitions", "text": "Students demonstrated creativity and excellence across science and innovation challenges." },
+        { "tag": "Facilities", "date": "February 28, 2026", "title": "New digital learning spaces open to all learners", "text": "Our upgraded facilities support STEM teaching, coding, and research-driven study." },
+        { "tag": "Events", "date": "January 10, 2026", "title": "Annual Marist celebration strengthens school community", "text": "Students, staff, and families came together in a joyful expression of faith and unity." }
+      ]
+    },
+    "cta": {
+      "badge": "Admissions",
+      "title": "Ready to join the next generation of leaders?",
+      "button": "Enroll Now"
+    }
+  },
+  "footer": {
+    "description": "A Catholic Marist Day School committed to science, humanities, faith, and moral discipline.",
+    "slogan": "Work, Dignity and Light",
+    "quickLinks": "Quick Links",
+    "studentLife": "Student Life",
+    "location": "Location",
+    "contactHours": "Contact & Hours",
+    "address": "Musanze District, Northern Province, Rwanda",
+    "contactAddress": "Musanze District, Rwanda",
+    "hours": "Mon - Fri: 7:30 AM - 5:00 PM",
+    "admissions": "Admissions: Open year-round",
+    "rights": "All rights reserved.",
+    "safeguarding": "Safeguarding",
+    "contact": "Contact",
+    "mapTitle": "Busogo I map"
+  }
+}

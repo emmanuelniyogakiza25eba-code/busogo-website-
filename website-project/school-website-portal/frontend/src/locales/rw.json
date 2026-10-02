@@ -1,0 +1,141 @@
+{
+  "school": {
+    "mottoHeading": "Intego y'ishuri",
+    "motto": "Work, Dignity and Light",
+    "mottoReflection": "Dushishikariza abanyeshuri gukora umurimo bashyizeho umwete, kubaha agaciro ka buri muntu no gusangiza abandi umucyo w'ubumenyi.",
+    "missionHeading": "Intego nyamukuru",
+    "mission": "To promote inclusive education, providing the quality of education, encouraging learners to innovate by enhancing practical skill and stressing the spiritual moral development.",
+    "visionHeading": "Icyerekezo",
+    "vision": "To be an outstanding school in teaching and learning where discipline, humanity, moral and spiritual value hold the key to all success"
+  },
+  "nav": {
+    "location": "Akarere ka Musanze, Intara y'Amajyaruguru, u Rwanda",
+    "portal": "Urubuga rw'ababyeyi n'abanyeshuri",
+    "items": {
+      "home": "Ahabanza",
+      "about": "Ishuri",
+      "academics": "Amasomo",
+      "campus": "Ikigo",
+      "news": "Amakuru",
+      "contact": "Twandikire"
+    },
+    "apply": "Saba kwiga",
+    "chooseLanguage": "Hitamo ururimi",
+    "toggleMenu": "Fungura cyangwa ufunge menu ya telefoni"
+  },
+  "home": {
+    "stats": [
+      { "value": "70+", "label": "Imyaka y'indashyikirwa" },
+      { "value": "800+", "label": "Abanyeshuri" },
+      { "value": "99%", "label": "Abatsinda ibizamini" },
+      { "value": "2", "label": "Amashami y'amasomo" }
+    ],
+    "highlights": [
+      { "title": "Ryashinzwe mu 1952", "description": "Imyaka irenga 70 y'indashyikirwa" },
+      { "title": "Indashyikirwa mu bumenyi", "description": "Porogaramu z'ubumenyi z'indashyikirwa" },
+      { "title": "Indangagaciro za Gatolika na Marist", "description": "Ukwemera, gukorera abandi n'imyitwarire myiza" },
+      { "title": "Rirashimirwa ku rwego rw'igihugu", "description": "Ibyavuye mu masomo biri ku rwego rwo hejuru" }
+    ],
+    "hero": {
+      "title": "Dutoza abayobozi b'ejo b'u Rwanda",
+      "description": "G.S. Busogo I - Saint Benoît ni ishuri Gatolika rya Marist ryakira abanyeshuri bataha, ryiyemeje guteza imbere ubumenyi, amasomo mbonezamubano n'imyitwarire myiza.",
+      "explore": "Reba amasomo",
+      "curriculum": "Reba integanyanyigisho",
+      "imageAlt": "Ikigo cya Group Scolaire Busogo I"
+    },
+    "featured": {
+      "imageAlt": "Abanyeshuri bigira kuri Group Scolaire Busogo I",
+      "badge": "Ubuzima bw'abanyeshuri",
+      "title": "Work, Dignity and Light",
+      "description": "Dutegurira abanyeshuri kuyobora, gukorera abandi no guhanga udushya."
+    },
+    "about": {
+      "badge": "Murakaza neza kuri G.S. Busogo I",
+      "title": "Umurage w'indashyikirwa mu bumenyi",
+      "description": "G.S. Busogo I - Saint Benoît ryashinzwe mu 1952. Ni ishuri Gatolika rya Marist ryakira abanyeshuri bataha, ryiyemeje guteza imbere ubumenyi, amasomo mbonezamubano, ukwemera n'imyitwarire myiza.",
+      "spirit": "Umuco wa Marist",
+      "spiritText": "Ukwemera, urukundo n'ikinyabupfura muri buri ntambwe.",
+      "science": "Ubumenyi",
+      "scienceText": "Kwiga dukora no kubaka urufatiro rukomeye muri STEM.",
+      "faith": "Ukwemera",
+      "faithText": "Indangagaciro za Marist zishingiye ku gukorera abandi, kwicisha bugufi no kugira umutima mwiza."
+    },
+    "pillars": {
+      "badge": "Inkingi zituyobora",
+      "title": "Uburezi Gatolika bwa Marist bushingiye ku bumenyi n'imyitwarire myiza",
+      "items": [
+        { "title": "Umutimanama", "text": "Ubuyobozi bwiza bushingiye ku kwemera, inshingano, kubaha no gukorera umuryango." },
+        { "title": "Ubumenyi", "text": "Kwiga dukora, gukoresha ikoranabuhanga no gushakashaka ibisubizo mu isi ihora ihinduka." },
+        { "title": "Indashyikirwa", "text": "Intego zisobanutse, akamenyero k'ikinyabupfura n'intsinzi mu masomo bitegura abanyeshuri kuyobora." }
+      ]
+    },
+    "curriculum": {
+      "badge": "Amashami yemewe y'amasomo",
+      "title": "Amashami abiri y'ishuri Gatolika rya Marist",
+      "description": "Ishuri ryacu ryita ku matsiko y'ubumenyi, gusobanukirwa abantu no kugira imico myiza.",
+      "streams": [
+        { "title": "Ishami ry'Imibare n'Ubumenyi", "description": "Kubaka ubumenyi bukomeye mu mibare n'ubumenyi binyuze mu myitozo, ubushakashatsi no kwiga ufite ikinyabupfura.", "tags": ["Imibare", "Fiziki", "Ubutabire", "Ibinyabuzima"] },
+        { "title": "Ishami ry'Ubugeni n'Ubumenyi Nkoranyamuntu", "description": "Kwiga indimi, amateka, ubumenyi bw'isi n'amasomo mbonezamubano, byongera ubushishozi n'ubushobozi bwo kuvugana neza.", "tags": ["Indimi", "Amateka", "Ubumenyi bw'isi", "Amasomo mbonezamubano"] }
+      ]
+    },
+    "impact": {
+      "badge": "Indashyikirwa mu mibare",
+      "title": "Intsinzi igaragara mu bihe byose",
+      "stats": [
+        { "value": "99%", "label": "Abatsinda ku rwego rw'igihugu", "detail": "Ibyavuye mu bizamini biri hejuru buri gihe" },
+        { "value": "1000+", "label": "Abanyeshuri barangije neza", "detail": "Abayobozi hirya no hino ku isi" },
+        { "value": "25+", "label": "Ibihembo by'ubumenyi", "detail": "Amarushanwa yo ku rwego rw'igihugu" },
+        { "value": "70+", "label": "Imyaka y'indashyikirwa", "detail": "Kuva mu 1952" }
+      ]
+    },
+    "studentLife": {
+      "badge": "Ubumenyi burenze ishuri",
+      "title": "Ubuzima bw'abanyeshuri bwubaka icyizere n'imico myiza",
+      "items": [
+        { "title": "Amarushanwa", "text": "Amarushanwa y'ubumenyi yo mu gihugu no mu mahanga, ay'imibare n'ibindi bizamini by'ubumenyi." },
+        { "title": "Amakipe n'imiryango", "text": "Itsinda ry'ubumenyi, umuryango w'impaka, itsinda ryita ku bidukikije n'iry'ikoranabuhanga, bifasha kwiga no hanze y'ishuri." },
+        { "title": "Gukorera umuryango", "text": "Ibikorwa biyobowe n'abanyeshuri bigirira akamaro umuryango kandi bikawitura." }
+      ]
+    },
+    "testimonials": {
+      "badge": "Abavuga kuri Busogo I",
+      "title": "Ibyo umuryango wacu uyivugaho",
+      "items": [
+        { "quote": "Busogo I yamfashije kugira ikinyabupfura mu masomo no kwigirira icyizere cyo gukomereza amashuri mu mahanga. Ishuri ryanyubatse mu bitekerezo no mu mico.", "name": "Niyogakiza", "role": "Uwahoze ari umunyeshuri • Icyiciro cya 2020" },
+        { "quote": "Umuco wo gukunda ubumenyi, ubufasha bw'abarimu n'indangagaciro nziza z'ishuri bituma kwiga hano bitera imbaraga kandi bigatanga icyizere.", "name": "Manzi G.", "role": "Umunyeshuri ubu • S6" },
+        { "quote": "Ndi umubyeyi, nshimira uburyo Busogo I ihuza indashyikirwa mu masomo, ikinyabupfura no kurera imico myiza.", "name": "Mugabo P.", "role": "Umubyeyi" }
+      ]
+    },
+    "news": {
+      "badge": "Amakuru y'ishuri",
+      "title": "Amakuru n'ibikorwa biheruka",
+      "viewAll": "Reba amakuru yose",
+      "items": [
+        { "tag": "Ibyagezweho", "date": "15 Werurwe 2026", "title": "Amatsinda y'ubumenyi y'ishuri yitwaye neza mu marushanwa y'igihugu", "text": "Abanyeshuri bagaragaje guhanga udushya no kuba indashyikirwa mu marushanwa y'ubumenyi n'udushya." },
+        { "tag": "Ibikorwaremezo", "date": "28 Gashyantare 2026", "title": "Ahigirwa hakoreshejwe ikoranabuhanga hafunguriwe abanyeshuri bose", "text": "Ibikorwaremezo bishya bifasha mu kwigisha STEM, gukora porogaramu za mudasobwa no gukora ubushakashatsi." },
+        { "tag": "Ibirori", "date": "10 Mutarama 2026", "title": "Ibirori ngarukamwaka bya Marist bikomeje kubaka ubumwe bw'ishuri", "text": "Abanyeshuri, abakozi n'imiryango bahuriye mu birori by'ibyishimo byaranze ukwemera n'ubumwe." }
+      ]
+    },
+    "cta": {
+      "badge": "Kwinjira mu ishuri",
+      "title": "Witeguye kwifatanya n'abayobozi b'ejo?",
+      "button": "Iyandikishe"
+    }
+  },
+  "footer": {
+    "description": "Ishuri Gatolika rya Marist ryakira abanyeshuri bataha, ryiyemeje ubumenyi, amasomo mbonezamubano, ukwemera n'imyitwarire myiza.",
+    "slogan": "Work, Dignity and Light",
+    "quickLinks": "Aho wahera",
+    "studentLife": "Ubuzima bw'abanyeshuri",
+    "location": "Aho riherereye",
+    "contactHours": "Aho waduhamagara n'amasaha",
+    "address": "Akarere ka Musanze, Intara y'Amajyaruguru, u Rwanda",
+    "contactAddress": "Akarere ka Musanze, u Rwanda",
+    "hours": "Kuwa mbere - Kuwa gatanu: 7:30 - 17:00",
+    "admissions": "Kwiyandikisha: umwaka wose",
+    "rights": "Uburenganzira bwose burabitswe.",
+    "safeguarding": "Kurengera umutekano",
+    "contact": "Twandikire",
+    "mapTitle": "Ikarita ya Busogo I"
+  }
+}

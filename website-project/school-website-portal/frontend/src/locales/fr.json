@@ -1,0 +1,141 @@
+{
+  "school": {
+    "mottoHeading": "Devise de l'école",
+    "motto": "Work, Dignity and Light",
+    "mottoReflection": "Nous encourageons les élèves à travailler avec engagement, à respecter la dignité de chacun et à partager la lumière du savoir avec leur communauté.",
+    "missionHeading": "Mission",
+    "mission": "To promote inclusive education, providing the quality of education, encouraging learners to innovate by enhancing practical skill and stressing the spiritual moral development.",
+    "visionHeading": "Vision",
+    "vision": "To be an outstanding school in teaching and learning where discipline, humanity, moral and spiritual value hold the key to all success"
+  },
+  "nav": {
+    "location": "District de Musanze, Province du Nord, Rwanda",
+    "portal": "Portail parents / élèves",
+    "items": {
+      "home": "Accueil",
+      "about": "À propos",
+      "academics": "Études",
+      "campus": "Campus",
+      "news": "Actualités",
+      "contact": "Contact"
+    },
+    "apply": "Candidater",
+    "chooseLanguage": "Choisir la langue",
+    "toggleMenu": "Ouvrir ou fermer le menu mobile"
+  },
+  "home": {
+    "stats": [
+      { "value": "70+", "label": "Années d'excellence" },
+      { "value": "800+", "label": "Élèves" },
+      { "value": "99 %", "label": "Taux de réussite" },
+      { "value": "2", "label": "Parcours scolaires officiels" }
+    ],
+    "highlights": [
+      { "title": "Fondée en 1952", "description": "Plus de 70 ans d'excellence" },
+      { "title": "Excellence scientifique", "description": "Des programmes scientifiques de premier plan" },
+      { "title": "Valeurs catholiques maristes", "description": "Foi, service et discipline morale" },
+      { "title": "Reconnaissance nationale", "description": "D'excellents résultats scolaires" }
+    ],
+    "hero": {
+      "title": "Former les futurs leaders du Rwanda",
+      "description": "Le G.S. Busogo I - Saint Benoît est une école de jour catholique mariste engagée en faveur des sciences, des lettres et de la discipline morale.",
+      "explore": "Découvrir les études",
+      "curriculum": "Voir le programme",
+      "imageAlt": "Campus du Group Scolaire Busogo I"
+    },
+    "featured": {
+      "imageAlt": "Élèves en cours au Group Scolaire Busogo I",
+      "badge": "Vie scolaire",
+      "title": "Work, Dignity and Light",
+      "description": "Préparer les élèves au leadership, au service et à l'innovation."
+    },
+    "about": {
+      "badge": "Bienvenue au G.S. Busogo I",
+      "title": "Un héritage d'excellence scientifique",
+      "description": "Fondé en 1952, le G.S. Busogo I - Saint Benoît est une école de jour catholique mariste engagée en faveur des sciences, des lettres, de la foi et de la discipline morale.",
+      "spirit": "Esprit mariste",
+      "spiritText": "La foi, l'amour et la discipline à chaque étape.",
+      "science": "Science",
+      "scienceText": "Des apprentissages pratiques et de solides bases en STEM.",
+      "faith": "Foi",
+      "faithText": "Les valeurs maristes du service, de l'humilité et du caractère."
+    },
+    "pillars": {
+      "badge": "Nos piliers directeurs",
+      "title": "Une éducation catholique mariste fondée sur les sciences, les lettres et la discipline morale",
+      "items": [
+        { "title": "Conscience", "text": "Une solide boussole morale fondée sur la foi, la responsabilité, le respect et le service à la communauté." },
+        { "title": "Science", "text": "Des apprentissages pratiques, des compétences numériques et une pédagogie de recherche adaptée à un monde en mutation." },
+        { "title": "Excellence", "text": "Des attentes élevées, des habitudes disciplinées et des réussites scolaires qui préparent les élèves au leadership." }
+      ]
+    },
+    "curriculum": {
+      "badge": "Parcours scolaires officiels",
+      "title": "Deux parcours pour les élèves de notre école de jour catholique mariste",
+      "description": "Notre école catholique mariste stimule la curiosité scientifique, la compréhension humaine et la force de caractère.",
+      "streams": [
+        { "title": "Parcours mathématiques et sciences", "description": "Acquérir de solides bases en mathématiques et en sciences par la pratique, la recherche et un travail rigoureux.", "tags": ["Mathématiques", "Physique", "Chimie", "Biologie"] },
+        { "title": "Parcours arts et sciences humaines", "description": "Étudier les langues, l'histoire, la géographie et les sciences humaines tout en développant le jugement et la communication.", "tags": ["Langues", "Histoire", "Géographie", "Sciences humaines"] }
+      ]
+    },
+    "impact": {
+      "badge": "L'excellence en chiffres",
+      "title": "Des réussites qui se confirment au fil des générations",
+      "stats": [
+        { "value": "99 %", "label": "Taux national de réussite", "detail": "Des résultats toujours excellents" },
+        { "value": "1000+", "label": "Anciens élèves accomplis", "detail": "Des leaders dans le monde entier" },
+        { "value": "25+", "label": "Prix scientifiques", "detail": "Concours nationaux" },
+        { "value": "70+", "label": "Années d'excellence", "detail": "Depuis 1952" }
+      ]
+    },
+    "studentLife": {
+      "badge": "Au-delà de la classe",
+      "title": "Une vie scolaire qui renforce confiance et caractère",
+      "items": [
+        { "title": "Concours", "text": "Olympiades scientifiques nationales et internationales, concours de mathématiques et défis scolaires." },
+        { "title": "Clubs et associations", "text": "Clubs de sciences, de débat, d'environnement et de programmation pour apprendre au-delà des cours." },
+        { "title": "Service communautaire", "text": "Des initiatives menées par les élèves qui ont un impact concret dans la communauté locale." }
+      ]
+    },
+    "testimonials": {
+      "badge": "Les voix de Busogo I",
+      "title": "Ce que notre communauté dit de nous",
+      "items": [
+        { "quote": "Busogo I m'a apporté la discipline scolaire et la confiance nécessaires pour poursuivre mes études à l'étranger. L'école a formé mon esprit et mon caractère.", "name": "Niyogakiza", "role": "Ancien élève • Promotion 2020" },
+        { "quote": "La culture scientifique, le soutien des enseignants et les valeurs de l'école rendent l'apprentissage motivant et enrichissant.", "name": "Manzi G.", "role": "Élève actuelle • S6" },
+        { "quote": "En tant que parent, j'apprécie l'équilibre entre excellence scolaire, discipline et formation du caractère qu'offre Busogo I.", "name": "Mugabo P.", "role": "Parent" }
+      ]
+    },
+    "news": {
+      "badge": "Nouvelles de l'école",
+      "title": "Dernières actualités et activités",
+      "viewAll": "Voir toutes les actualités",
+      "items": [
+        { "tag": "Réussite", "date": "15 mars 2026", "title": "Les équipes scientifiques brillent aux concours nationaux", "text": "Les élèves ont fait preuve de créativité et d'excellence dans les défis scientifiques et d'innovation." },
+        { "tag": "Équipements", "date": "28 février 2026", "title": "De nouveaux espaces numériques ouvrent à tous les élèves", "text": "Nos équipements rénovés favorisent l'enseignement STEM, la programmation et la recherche." },
+        { "tag": "Événements", "date": "10 janvier 2026", "title": "La célébration mariste annuelle renforce la communauté scolaire", "text": "Élèves, personnel et familles se sont réunis dans la joie autour de la foi et de l'unité." }
+      ]
+    },
+    "cta": {
+      "badge": "Admissions",
+      "title": "Prêt à rejoindre la prochaine génération de leaders ?",
+      "button": "S'inscrire"
+    }
+  },
+  "footer": {
+    "description": "Une école de jour catholique mariste engagée en faveur des sciences, des lettres, de la foi et de la discipline morale.",
+    "slogan": "Work, Dignity and Light",
+    "quickLinks": "Liens rapides",
+    "studentLife": "Vie scolaire",
+    "location": "Adresse",
+    "contactHours": "Contact et horaires",
+    "address": "District de Musanze, Province du Nord, Rwanda",
+    "contactAddress": "District de Musanze, Rwanda",
+    "hours": "Lun. - Ven. : 7 h 30 - 17 h",
+    "admissions": "Admissions : ouvertes toute l'année",
+    "rights": "Tous droits réservés.",
+    "safeguarding": "Protection des élèves",
+    "contact": "Contact",
+    "mapTitle": "Carte de Busogo I"
+  }
+}
